@@ -1,0 +1,21 @@
+{
+    "name": "gandh1pl/yii2-platnosci24",
+    "description": "It's the extension for easy use of Platnosci24 system in your Yii2 application",
+    "type": "yii2-extension",
+    "keywords": ["yii2","platnosci24","platnosci","online","przelewy"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gandh1",
+            "email": "gandhi@gandhi.ct8.pl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gandh1pl\\platnosci24\\": ""
+        }
+    }
+}
